@@ -18,5 +18,8 @@
     <ClCompile Include="Create.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Access.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
